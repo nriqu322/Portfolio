@@ -9,6 +9,22 @@ body {
   text-align: center;
 }
 
+.main-title {
+  padding-top: 25px;
+  padding-bottom: 30px;
+  margin: auto;
+  width: 80%;
+  font-family: 'Lobster', cursive;
+}
+
+.description {
+  margin-top: 25px;
+  margin-bottom: 50px;
+  margin: auto;
+  width: 70%;
+  font-family: 'Hind', sans-serif;
+}
+
 .project-container {
   position: relative;
   width: 75%;
@@ -101,5 +117,16 @@ body {
 @media (max-width: 767px) {
   .project-container {
     width: 90%;
+  }
+
+  .main-title {
+    font-size: 20px;
+  }
+
+  .description {
+    margin-top: 18px;
+    margin-bottom: 50px;
+    margin: auto;
+    font-family: 'Hind', sans-serif;
   }
 }
