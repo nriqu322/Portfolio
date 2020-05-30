@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #f6f9fc;
+  background-color: #fafafa;
   text-align: center;
 }
 
@@ -110,7 +110,7 @@ body {
 
 .footer-text {
   font-size: 13px;
-  color: #655;
+  color: rgb(173, 10, 10);
 }
 
 @media (min-width: 768px) {
