@@ -108,6 +108,10 @@ body {
   display: none;
 }
 
+.social-footer img {
+  height: 25px;
+}
+
 .footer-text {
   font-size: 13px;
   color: rgb(173, 10, 10);
