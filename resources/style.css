@@ -72,20 +72,20 @@ body {
 }
 
 .back-img-1 {
-  background-image: url("images/projects-index.png");
+  background-image: url("../images/projects-index.png");
   z-index: 1;
 }
 
 .back-img-2 {
-  background-image: url("images/search-desktop.png");
+  background-image: url("../images/search-desktop.png");
 }
 
 .back-img-3 {
-  background-image: url("images/calculator.png");
+  background-image: url("../images/calculator.png");
 }
 
 .back-img-4 {
-  background-image: url("images/etch-a-sketch.png");
+  background-image: url("../images/etch-a-sketch.png");
 }
 
 .back-color-1 {
