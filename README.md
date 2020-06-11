@@ -1,6 +1,6 @@
 # Portfolio : Luis Saavedra
 
-This is my portfolio to show the main project i worked on and collaborate in.
+This is my portfolio to show the main project I worked on and collaborate in.
 
 ## Built with
 
