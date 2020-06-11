@@ -38,6 +38,10 @@ body {
   font-family: 'Hind', sans-serif;
 }
 
+.contact-info {
+  font-size: 22px;
+}
+
 .project-container {
   position: relative;
   width: 75%;
